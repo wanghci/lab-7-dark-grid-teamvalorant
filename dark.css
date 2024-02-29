@@ -28,4 +28,12 @@
         background-color: #121212;
         border: 5px dashed #121212;
     }
+
+    .wrapper {
+        background-color: #121212;
+    }
+}
+
+body {
+    background-color: #121212;
 }
