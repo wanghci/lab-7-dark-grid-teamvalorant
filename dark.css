@@ -1,0 +1,31 @@
+.dark {
+    .main-head {
+        background-color: #121212;
+        border: 5px dashed #450085;
+    }
+
+    .content {
+        background-color: #121212;
+        border: 5px dashed #333333;
+    }
+
+    .main-nav {
+        background-color: #121212;
+        border: 5px dashed #009698;
+    }
+
+    .side {
+        background-color: #121212;
+        border: 5px dashed #121212;
+    }
+
+    .ad {
+        background-color: #121212;
+        border: 5px dashed black;
+    }
+
+    .main-footer {
+        background-color: #121212;
+        border: 5px dashed #121212;
+    }
+}
