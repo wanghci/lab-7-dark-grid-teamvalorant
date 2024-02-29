@@ -1,6 +1,6 @@
-let os = document.querySelector(a);
-let dark = document.querySelector(a);
-let light = document.querySelector(a);
+let os = document.querySelector("default");
+let dark = document.querySelector("dark)";
+let light = document.querySelector("light");
 
 os.addEventListener("click", function (){
     let body = document.body;
